@@ -2,7 +2,7 @@
 
 "https://{default}/":
     type: upstream
-    upstream: "learning_log_project:http"
+    upstream: "learning_log:http"
 
 "https://www.{default}/":
     type: redirect
