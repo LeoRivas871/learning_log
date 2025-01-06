@@ -1,6 +1,13 @@
 # Learning Log
 
 Aplicación web llamada Learning Log que permite a los usuarios registrar los temas en los que están interesados y escribir entradas en su diario a medida que aprendan sobre cada tema.
+Puedes ver unas cuantas imagenes del sitio en la carpeta capturas_de_pantalla
+
+https://main-bvxea6i-cealbeqapcwcm.us-3.platformsh.site/
+https://www.main-bvxea6i-cealbeqapcwcm.us-3.platformsh.site/
+http://main-bvxea6i-cealbeqapcwcm.us-3.platformsh.site/
+http://www.main-bvxea6i-cealbeqapcwcm.us-3.platformsh.site/
+
 
 ## Características
 
